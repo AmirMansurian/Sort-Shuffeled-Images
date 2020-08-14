@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-Path = 'Puzzle_1_160\';          % <---------------- Please Enter Path of Images here 
+Path = 'C:\Users\Amir\Desktop\Puzzle\Puzzle_3_40\';          % <---------------- Please Enter Path of Images here 
 
 Images_test = dir(Path);
 
